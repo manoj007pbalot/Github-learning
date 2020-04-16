@@ -24,3 +24,13 @@ class A{
 	}
 	
 }
+class D{
+	String name;
+	int salary;
+	A(String name,int salary){
+		this.name=name;
+		this.salary=salary;
+	
+	}
+	
+}
